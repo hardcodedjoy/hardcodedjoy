@@ -1,0 +1,5 @@
+- 👋 Hi, we are @hardcodedjoy ([https://hardcodedjoy.com](https://hardcodedjoy.com)).
+- 👨‍💻 We are developing android apps for various [industries](https://hardcodedjoy.com/industries).
+- 💞️ Some of our apps are open source and we will provide their source code here on GitHub.
+- 📫 You can contact us [here](https://hardcodedjoy.com/contact).
+- 📱 If you are a company located in Europe or US and need a custom android app, you can [send us your requirements](https://hardcodedjoy.com/custom-android-app).
